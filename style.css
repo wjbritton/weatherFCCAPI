@@ -1,0 +1,24 @@
+h1, p {
+    text-align:center;
+    color:#000;
+    font-weight:400;
+    font-size:32px;
+}
+
+#tempType {
+    padding:3%;
+    margin:0 0 0 80%;
+}
+
+#temp {
+    font-family:impact;
+    color:#000;
+
+}
+
+#weatherData {
+    font-family:impact;
+    color:green;
+    background-color:#E8E8EE;
+    margin:20% 10%;
+}
